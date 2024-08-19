@@ -1,6 +1,7 @@
 # Credit Card Payment UI
 
-![Credit-Card-UI](https://github.com/user-attachments/assets/c4247cc6-8017-47d3-a05b-8f3b074eba0c)
+![Credit-Card-UI](https://github.com/user-attachments/assets/119d470a-4538-49b3-8372-b3e871e0d0f5)
+
 
 This project is a credit card payment interface built using HTML, CSS, and JavaScript. The user interface simulates a real-world credit card payment form where users can input their card details. As users fill in the form fields, the details dynamically update on the visual representation of the card at the top of the form.
 
