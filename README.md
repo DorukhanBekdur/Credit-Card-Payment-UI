@@ -28,7 +28,7 @@ You need a modern web browser installed on your computer.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DorukhanBekdur/Credit-Card-UI.git
+   git clone https://github.com/DorukhanBekdur/Credit-Card-Payment-UI.git
 
 2.Open `index.html` in your browser to view the application.
 
@@ -56,4 +56,4 @@ If you have any suggestions that would make this better, please fork the repo an
 ## Contact
 Dorukhan Bekdur - dorukhanbekdur@gmail.com
 
-Project Link: https://github.com/DorukhanBekdur/Credit-Card-UI
+Project Link: https://github.com/DorukhanBekdur/Credit-Card-Payment-UI
